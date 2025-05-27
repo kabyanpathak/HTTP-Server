@@ -1,0 +1,16 @@
+target/
+**/*.rs.bk
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.iml
+.project
+.classpath
+.settings/
+.env
+*.swp
+*.swo
+*~
+*.bak
+*.tmp
